@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="cource">Cource</string>
+    <string name="save_button">Save</string>
+    <string name="filter_button">Filter by course</string>
+    <string name="unselect_button">Unselect</string>
+    <string name="remove_button">Remove</string>
+    <string name="report_button">Report</string>
+    <string name="back">Back</string>
+</resources>

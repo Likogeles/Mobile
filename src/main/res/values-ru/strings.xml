@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="cource">Курс</string>
+    <string name="save_button">Сохранить</string>
+    <string name="filter_button">Фильтр по курсу</string>
+    <string name="unselect_button">Снять выделение</string>
+    <string name="remove_button">Удалить</string>
+    <string name="report_button">Отчёт</string>
+    <string name="back">Назад</string>
+</resources>
